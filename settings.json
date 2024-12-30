@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Material One Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "files.autoSave": "afterDelay",
+    "editor.stickyScroll.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "window.menuBarVisibility": "toggle"
+}
